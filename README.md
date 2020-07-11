@@ -2,7 +2,10 @@
 
 This website provides the user with relevent information in the fields of: Videogame reviews and articles to keep users up to date with the latest and greatest.
 
-[Website](https://jerry-seinfeld.github.io/StaTTrack/index2.html)
+
+Some portions of this project contain old files of the website that do not reflect StaTTrack.
+
+[Website](https://jerry-seinfeld.github.io/StaTTrackrevised/)
 
 ![Image](Picture.png)
-![Image](Pictures.png)
+
